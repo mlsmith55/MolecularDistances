@@ -1,0 +1,1 @@
+Collection of coordinates used to model the breakdowns of three hypohalous acids, HOCl, HOBr and HOI into either the related haloacids, HCl, HBr and HI or the competing reactions producing hydroxyl anion, OH-, and the related cationic halides, Cl+, Br+ and I+. 
