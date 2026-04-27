@@ -1,0 +1,13 @@
+# Name: Clacid
+
+@<TRIPOS>MOLECULE
+HCl
+2 1 0 0 0
+SMALL
+NO_CHARGE
+
+@<TRIPOS>ATOM
+ 1   Cl    0.0        0.0        0.07167     Cl     
+ 2   H    0.0    0.0    -1.021833     H  
+@<TRIPOS>BOND
+ 1   1    2     1
