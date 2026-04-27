@@ -1,0 +1,12 @@
+# Name: ATOX
+
+@<TRIPOS>MOLECULE
+atomic oxygen
+1 0 0 0 0
+SMALL
+NO_CHARGE
+
+@<TRIPOS>ATOM
+ 1   O    0.0        0.0        0.0     O     O.3
+@<TRIPOS>BOND
+ 0   0    0     nc
