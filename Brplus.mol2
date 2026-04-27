@@ -1,0 +1,10 @@
+# Name: Brplus
+
+@<TRIPOS>MOLECULE
+Br+
+1 0 0 0 0
+SMALL
+GAST_HUCK
+
+@<TRIPOS>ATOM
+ 1   Br    0.0        0.0        0.0     Br     +1
