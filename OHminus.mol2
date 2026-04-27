@@ -1,0 +1,13 @@
+# Name: OHminus
+
+@<TRIPOS>MOLECULE
+HO-
+2 1 0 0 0
+SMALL
+GAST_HUCK
+
+@<TRIPOS>ATOM
+ 1   O    0.0        0.0        0.10667     O.3       -1  
+ 2   H    0.0        0.0        -0.85333     H     
+@<TRIPOS>BOND
+ 1   1    2     1
