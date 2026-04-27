@@ -1,0 +1,13 @@
+# Name: HI acid
+
+@<TRIPOS>MOLECULE
+Iacid
+2 1 0 0 0
+SMALL
+NO_CHARGE
+
+@<TRIPOS>ATOM
+ 1   I    0.0        0.0        0.04076        I     1
+ 2   H    0.0        0.0        -1.42642       H     1
+@<TRIPOS>BOND
+ 1   1    2     1
