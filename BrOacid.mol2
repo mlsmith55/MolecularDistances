@@ -7,7 +7,7 @@ SMALL
 NO_CHARGE
 
 @<TRIPOS>ATOM
- 1   O    0.02173    1.54721    0.0     O.3     
+ 1   O    0.02173    1.54721    0.0     O    
  2   H    -0.9344    1.80839    0.0     H     
  3   Br    0.2173   -0.40531    0.0     Br     
 @<TRIPOS>BOND
